@@ -1787,7 +1787,7 @@
     "@svgr/core" "^5.5.0"
     "@svgr/plugin-jsx" "^5.5.0"
     "@svgr/plugin-svgo" "^5.5.0"
-    loader-utils "^2.0.0"
+    loader-utils "^2.0.3"
 
 "@testing-library/dom@^7.28.1":
   version "7.31.2"
